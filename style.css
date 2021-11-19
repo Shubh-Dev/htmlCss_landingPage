@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.container{
+    width: 80%;
+    border: 1px dashed red;
+    margin: auto;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    height: 100%;
+
+}
+
+header{
+    width: 100%;
+    min-height: 3em;
+    background: #1F2937;
+    color: #ffffff;
+    
+}
+.container ul{
+    display: flex;
+    gap: 1em;
+
+
+}
+a{
+    color: #E5E7EB;
+}
+
